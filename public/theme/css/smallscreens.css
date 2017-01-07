@@ -1,0 +1,1278 @@
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+	.header-wrap .top-bar-wrap .top-bar .top-info span {
+		margin-left: 10px;
+		font-size: 12px;
+	}
+
+	.header-wrap .menu-wrap .navbar-inverse .navbar-brand {
+		max-width: 260px;
+		margin-top: 0;
+		padding-top: 0;
+	}
+
+	.header-wrap .menu-wrap .navbar-inverse .navbar-collapse #navigacija li a {
+		min-height: 30px;
+		padding: 0;
+		margin-top: 50px;
+		padding-left: 7px;
+		padding-right: 7px;
+	}
+
+	body .main-content .nekretnina-item .description-wrap .row .col-md-2 p {
+		font-size: 13px;
+	}
+
+	.foot-wrap .footer-booking-wrap .footer-zadnji span {
+		font-size: 15px;
+	}
+
+	.foot-wrap .footer-booking-wrap .footer-zadnji .footer-zbir {
+		max-width: 90px;
+	}
+
+	.foot-wrap .footer-booking-wrap .footer-zadnji button {
+		min-width: 160px;
+		max-width: 160px;
+	}
+
+	.foot-wrap .footer-info-wrap p {
+		font-size: 11px;
+	}
+
+	.foot-wrap .footer-info-wrap h4 {
+		font-size: 13px;
+	}
+
+	.book-with-kontesa h3 {
+		font-size: 16px;
+	}
+
+	.book-with-kontesa p {
+		font-size: 12px;
+		line-height: 13px;
+	}
+
+	.foot-wrap h2 {
+		font-size: 16px;
+		margin-bottom: 10px;
+	}
+
+	/*RENTACAR*/
+
+	.main-content #rentacar-wrap #rent-slika-wrap {
+		height: 160px;
+	}  
+
+	/*DETALJI NEKRETNINA*/
+
+	.pronadjeno-wrap .detalji-cena {
+		font-size: 30px;
+		padding-top: 21px;
+		padding-bottom: 20px;
+	}
+
+	.pronadjeno-wrap .detalji-main .upit-wrap .button-wrap {
+		margin-top: 30px;
+	}
+
+	/*KONTAKT*/
+
+	.kontakt-info-wrap .footer-phone-wrap {
+		background-position: left 5px top 10px;
+		padding-left: 30px;
+		-webkit-background-size: 19px 19px;
+		-moz-background-size: 19px 19px;
+		-o-background-size: 19px 19px;
+		background-size: 19px 19px;
+	}
+
+	.kontakt-info-wrap .footer-mail-wrap {
+		background-position: left 5px top 10px;
+		padding-left: 30px;
+		-webkit-background-size: 23px 19px;
+		-moz-background-size: 23px 19px;
+		-o-background-size: 23px 19px;
+		background-size: 23px 19px;
+	}
+
+	.kontakt-info-wrap .footer-location-wrap {
+		background-position: left 5px top 10px;
+		padding-left: 30px;
+		-webkit-background-size: 19px 23px;
+		-moz-background-size: 19px 23px;
+		-o-background-size: 19px 23px;
+		background-size: 19px 23px;
+	}
+
+	.kontakt-info-wrap .footer-info-wrap {
+		background-position: left 5px top 10px;
+		padding-left: 30px;
+		-webkit-background-size: 15px 23px;
+		-moz-background-size: 15px 23px;
+		-o-background-size: 15px 23px;
+		background-size: 15px 23px;
+	}
+
+	.kontakt-wrap .footer-zadnji span {
+		margin-left: 65px;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+	.main-wrap {
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+
+	.header-wrap .top-bar-wrap .top-bar .top-info .top-tel {
+		-webkit-background-size: 15px 15px;
+		-moz-background-size: 15px 15px;
+		-o-background-size: 15px 15px;
+		background-size: 15px 15px;
+		padding-left: 25px;
+	}
+
+	.header-wrap .top-bar-wrap .top-bar .top-info .top-mail {
+		-webkit-background-size: 18px 15px;
+		-moz-background-size: 18px 15px;
+		-o-background-size: 18px 15px;
+		background-size: 18px 15px;
+		padding-left: 25px;
+	}
+
+
+	.header-wrap .top-bar-wrap .top-bar .top-info span {
+		margin-left: 10px;
+		font-size: 12px;
+	}
+
+	.header-wrap .menu-wrap .navbar-inverse .navbar-brand {
+		max-width: 200px;
+		margin-top: 0;
+		padding-top: 0;
+	}
+
+	.header-wrap .menu-wrap .navbar-inverse .navbar-collapse #navigacija li a {
+		min-height: 30px;
+		padding: 0;
+		padding-top: 30px;
+		padding-bottom: 30px;
+		padding-left: 7px;
+		padding-right: 7px;
+		font-size: 11px;
+	}
+
+	.header-wrap .menu-wrap .navbar-inverse {
+		min-height: 80px;
+	}
+
+	.main-wrap .kvalitet-wrap .p-kvalitet {
+		font-size: 17px;
+	}
+
+	.main-trazi .trazi .pretraga {
+		padding-bottom: 20px;
+	}
+
+	.main-trazi .trazi .pretraga a {
+		font-size: 25px;
+		margin-top: 10px;
+		display: inline-block;
+		margin-top: 2px;
+	}
+
+	.main-trazi .trazi .pretraga #rotate-arrow {
+		margin-left: 15px;
+	}
+
+	.main-trazi .trazi .pretraga input {
+		min-width: 60px;
+	}
+
+	.main-trazi .trazi .pretraga #refid {
+		min-width: 50px;
+	}
+
+	.main-trazi .trazi .search a {
+		padding-left: 70px;
+	}
+
+	.show-form .top-inputs p, .show-form .bottom-inputs p {
+		margin-bottom: 0;
+	}
+
+	.show-form .top-inputs, .show-form .bottom-inputs {
+		padding-top: 0;
+	}
+
+	.show-form .bottom-inputs input {
+		min-width: 47%;
+		max-width: 47%;
+	}
+
+	body .main-content .pronadjeno-wrap {
+		padding-right: 0;
+	}
+
+	body .main-content .nekretnina-item {
+		padding-top: 0;
+	}
+
+	body .main-content .nekretnina-item .img-wrap {
+		padding-top: 0;
+	}
+
+	body .main-content .nekretnina-item .img-wrap img {
+		-webkit-transform: none;
+		-webkit-transform-origin: none;
+		-moz-transform: none;
+		-moz-transform-origin: none;
+		height: auto;
+		max-height: 400px;
+		margin-bottom: 0;
+		min-width: 100%;
+	}
+
+	body .main-content .nekretnina-item .description-wrap .row .col-md-6 .opsirnije {
+		min-width: 300px;
+		max-width: 300px;
+		margin: auto;
+		float: none;
+	}
+
+	body .main-content .nekretnina-item .description-wrap .row .col-md-2 p {
+		text-align: left;
+	}
+
+	body .main-content .nekretnina-item .description-wrap .row .col-md-2 {
+		border: none;
+	}
+
+	body .main-content .nekretnina-item .description-wrap h3 a {
+		margin-bottom: 10px;
+	}
+
+	.main-content .izabrani {
+		padding-left: 0;
+	}
+
+	.izabrani .izabrani-item {
+		background: transparent;
+	}
+
+	.izabrani .izabrani-item {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.izabrani .izabrani-item img {
+		min-width: 100%;
+		border: 15px solid #fff;
+		max-height: 350px;
+	}
+
+	.izabrani .izabrani-item .overlay  {
+		margin-left: 15px;
+		margin-top: 15px;
+	}
+
+	.foot-wrap .footer-booking-wrap .col-md-4 input {
+		margin-bottom: 10px;
+	}
+
+	.foot-wrap h2 {
+		margin-bottom: 10px;
+	}
+
+	.foot-wrap .footer-booking-wrap .col-md-12 textarea {
+		margin-top: 0;
+	}
+
+	.foot-wrap .footer-booking-wrap .footer-zadnji span {
+		margin-left: 190px;
+	}
+
+	.main-content #rentacar-wrap #rent-slika-wrap {
+		height: 240px;
+		width: 100%;
+	}
+
+	.main-content #rentacar-wrap #rent-slika-wrap img {
+		min-height: 310px;
+		min-width: 240px;
+		margin: auto;
+	}
+
+	#rezultati-pretrage-wrap .nekretnina-item .description-wrap {
+		padding-left: 15px;
+	}
+
+	/*DETALJI NEKRETNINA*/
+
+	.pronadjeno-wrap .detalji-cena {
+		font-size: 30px;
+		padding-top: 21px;
+		padding-bottom: 21px;
+	}
+
+	.pronadjeno-wrap .detalji-main {
+		margin-bottom: 10px;
+	}
+
+	/*MODAL FORM*/
+
+	.modal .modal-dialog {
+		min-width: auto;
+	}
+
+	.modal .modal-dialog .modal-content {
+		min-width: auto;
+	}
+
+	/*KONTAKT*/
+
+	.kontakt-wrap .col-md-4 input {
+		margin-bottom: 10px;
+	}
+
+	.kontakt-wrap .footer-zadnji span {
+		margin-left: 135px;
+	}
+
+	.kontakt-info-wrap {
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px) {
+
+	.main-wrap {
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+
+	.header-wrap .top-bar-wrap .top-bar .top-info .top-tel {
+		-webkit-background-size: 15px 15px;
+		-moz-background-size: 15px 15px;
+		-o-background-size: 15px 15px;
+		background-size: 15px 15px;
+		padding-left: 20px;
+	}
+
+	.header-wrap .top-bar-wrap .top-bar .top-info .top-mail {
+		-webkit-background-size: 18px 15px;
+		-moz-background-size: 18px 15px;
+		-o-background-size: 18px 15px;
+		background-size: 18px 15px;
+		padding-left: 20px;
+	}
+
+	.header-wrap .top-bar-wrap .top-bar .col-md-8 {
+		padding: 0;
+	}
+
+	.header-wrap .top-bar-wrap {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+
+	.header-wrap .top-bar-wrap .top-bar .top-info span {
+		margin-left: 3px;
+		font-size: 10px;
+	}
+
+	.header-wrap .top-bar-wrap .top-bar .top-lang img {
+		margin-left: 10px;
+	}
+
+	.header-wrap .menu-wrap .navbar-inverse .navbar-brand {
+		max-width: 200px;
+		margin-top: 0;
+		padding-top: 0;
+	}
+
+	.header-wrap .menu-wrap .navbar-inverse .navbar-collapse {
+		margin-top: 100px;
+		min-width: 100px;
+		padding-right: 30px;
+	}
+
+	.header-wrap .menu-wrap .navbar-inverse .navbar-collapse #navigacija {
+		min-width: 100%;
+		max-width: 100%;
+	}
+
+	.header-wrap .menu-wrap .navbar-inverse .navbar-collapse #navigacija li a {
+		min-height: 20px;
+		padding: 0;
+		font-size: 15px;
+		text-align: center;
+		line-height: 40px;
+	}
+
+	.header-wrap .menu-wrap .navbar-inverse {
+		min-height: 80px;
+	}
+
+	.main-wrap .kvalitet-wrap .p-kvalitet {
+		font-size: 12px;
+		text-align: right;
+	}
+
+	.main-trazi .trazi .pretraga {
+		padding-bottom: 20px;
+		text-align: center;
+		padding-top: 0;
+	}
+
+	.main-trazi .trazi .pretraga a {
+		font-size: 25px;
+		margin-top: 10px;
+		display: inline-block;
+		margin-top: 2px;
+	}
+
+	.main-trazi .trazi .pretraga #rotate-arrow {
+		margin-left: 15px;
+	}
+
+	.main-trazi .trazi .pretraga input {
+		min-width: 100%;
+		max-width: 100%;
+	}
+
+	.main-trazi .trazi .pretraga #refid {
+		min-width: 100%;
+		max-width: 100%;
+	}
+
+	.main-trazi .trazi .search a {
+		padding-left: 0;
+	}
+
+	.main-content .pronadjeno select {
+		float: none;
+		min-width: 100%;
+		max-width: 100%;
+		margin: auto;
+	}
+
+	.main-content .pronadjeno .sort {
+		display: none;
+	}
+
+	.main-content .pronadjeno #sort-small {
+		display: block;
+		float: none;
+		text-align: left;
+	}
+
+	body .main-content .pronadjeno-wrap {
+		padding-right: 0;
+	}
+
+	.show-form .top-inputs p, .show-form .bottom-inputs p {
+		margin-bottom: 0;
+	}
+
+	.show-form .top-inputs, .show-form .bottom-inputs {
+		padding-top: 0;
+	}
+
+	.show-form .bottom-inputs input {
+		min-width: 47%;
+		max-width: 47%;
+	}
+
+	body .main-content .nekretnina-item {
+		padding-top: 0;
+	}
+
+	body .main-content .nekretnina-item .img-wrap {
+		padding-top: 0;
+	}
+
+	body .main-content .nekretnina-item .img-wrap img {
+		-webkit-transform: none;
+		-webkit-transform-origin: none;
+		-moz-transform: none;
+		-moz-transform-origin: none;
+		height: auto;
+		max-height: 400px;
+		margin-bottom: 0;
+		min-width: 100%;
+	}
+
+	body .main-content .nekretnina-item .description-wrap .row .col-md-6 .opsirnije {
+		min-width: 300px;
+		max-width: 300px;
+		margin: auto;
+		float: none;
+	}
+
+	body .main-content .nekretnina-item .description-wrap .row .col-md-2 p {
+		text-align: left;
+	}
+
+	body .main-content .nekretnina-item .description-wrap .row .col-md-2 {
+		border: none;
+	}
+
+	body .main-content .nekretnina-item .description-wrap h3 a {
+		margin-bottom: 10px;
+	}
+
+	.main-content .izabrani {
+		padding-left: 0;
+	}
+
+	.izabrani .izabrani-item {
+		background: transparent;
+	}
+
+	.izabrani .izabrani-item {
+		padding-left: 0;
+		padding-right: 0;
+	}
+
+	.izabrani .izabrani-item img {
+		min-width: 100%;
+		border: 15px solid #fff;
+		max-height: 350px;
+	}
+
+	.izabrani .izabrani-item .overlay  {
+		margin-left: 15px;
+		margin-top: 15px;
+	}
+
+	.foot-wrap .footer-booking-wrap .col-md-4 input {
+		margin-bottom: 10px;
+	}
+
+	.foot-wrap h2 {
+		margin-bottom: 10px;
+	}
+
+	.foot-wrap .footer-booking-wrap .col-md-12 textarea {
+		margin-top: 0;
+	}
+
+	.foot-wrap .footer-booking-wrap .footer-zadnji span {
+		min-width: 100%;
+		max-width: 100%;
+		text-align: left;
+		margin: 0;
+	}
+
+	.foot-wrap .footer-booking-wrap .footer-zadnji .footer-zbir {
+		min-width: 100%;
+		max-width: 100%;
+		margin: 0;
+		margin-bottom: 10px;
+		margin-top: 10px;
+	}
+
+	.foot-wrap .footer-booking-wrap .footer-zadnji button {
+		min-width: 100%;
+		max-width: 100%;
+	}
+
+	.main-content #rentacar-wrap #rent-slika-wrap {
+		height: 180px;
+		width: 100%;
+	}
+
+	.main-content #rentacar-wrap #rent-slika-wrap img {
+		max-height: 250px;
+		min-width: 180px;
+		margin: auto;
+	}
+
+	#o_nama #rentacar-wrap #rentacar-text p {
+		font-size: 14px;
+	}
+
+	/*REZULTATI PRETRAGE*/
+
+	#rezultati-pretrage-wrap .nekretnina-item .description-wrap {
+		padding-left: 15px;
+	}
+
+	/*DETALJI NEKRETNINA*/
+
+	.pronadjeno-wrap .detalji-cena {
+		padding-top: 3px;
+		padding-bottom: 3px;
+	}
+
+	.pronadjeno-wrap .detalji-opis-cena {
+		padding-bottom: 3px;
+		padding-top: 3px;
+	}
+
+	.pronadjeno-wrap .detalji-main {
+		margin-bottom: 10px;
+	}
+
+	/*MODAL FORM*/
+
+	.modal .modal-dialog {
+		min-width: auto;
+	}
+
+	.modal .modal-dialog .modal-content {
+		min-width: auto;
+	}
+
+	.modal .modal-dialog .modal-content .footer-zadnji input {
+		min-width: 100%;
+		max-width: 100%;
+		margin: 0;
+		margin-bottom: 10px;
+		margin-top: 10px;
+	}
+
+	.modal .modal-dialog .modal-content .footer-zadnji span {
+		min-width: 100%;
+		max-width: 100%;
+		text-align: left;
+		float: left;
+	}
+
+	.modal .modal-dialog .modal-content .footer-zadnji button {
+		min-width: 100%;
+		max-width: 100%;
+	}
+
+	.modal .modal-dialog .modal-content .modal-head-wrap .modal-header {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+
+	.modal .modal-dialog .modal-content .modal-body-wrap {
+		padding-top: 10px;
+	}
+
+	.modal .modal-dialog .modal-content .footer-zadnji {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+
+	/*KONTAKT*/
+
+	.kontakt-wrap .col-md-4 input {
+		margin-bottom: 10px;
+	}
+
+	.kontakt-wrap .footer-zadnji span {
+		min-width: 100%;
+		max-width: 100%;
+		float: left;
+		margin: 0;
+	}
+
+	.kontakt-wrap .footer-zadnji {
+		padding-top: 0;
+	}
+
+	.kontakt-wrap .footer-zadnji .footer-zbir {
+		min-width: 100%;
+		max-width: 100%;
+		margin: 0;
+		margin-bottom: 10px;
+		margin-top: 10px;
+	}
+
+	.kontakt-wrap .footer-zadnji button {
+		min-width: 100%;
+		max-width: 100%;
+		margin: 0;
+	}
+
+	.kontakt-info-wrap {
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+
+	.main-content .izabrani {
+		display: none;
+	}
+}
+
+@media screen and (max-width: 479px) {
+	.main-wrap {
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+		background-position: center;
+		background-attachment: fixed;
+	}
+
+	.header-wrap .top-bar-wrap .top-bar .top-info .top-tel {
+		-webkit-background-size: 15px 15px;
+		-moz-background-size: 15px 15px;
+		-o-background-size: 15px 15px;
+		background-size: 15px 15px;
+		padding-left: 20px;
+	}
+
+	.header-wrap .top-bar-wrap .top-bar .top-info .top-mail {
+		-webkit-background-size: 18px 15px;
+		-moz-background-size: 18px 15px;
+		-o-background-size: 18px 15px;
+		background-size: 18px 15px;
+		padding-left: 20px;
+	}
+
+	.header-wrap .top-bar-wrap .top-bar .col-md-8 {
+		padding: 0;
+	}
+
+	.header-wrap .top-bar-wrap {
+		padding-left: 0;
+		padding-right: 0;
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+
+
+	.header-wrap .top-bar-wrap .top-bar .top-info span {
+		margin-left: 3px;
+		font-size: 10px;
+		min-width: 100%;
+		max-width: 100%;
+		display: block;
+		padding-left: 20px;
+	}
+
+	.header-wrap .top-bar-wrap .top-bar .top-lang img {
+		width: 15px;
+		height: 12px;
+		margin-left: 3px;
+		margin-top: 22px;
+	}
+
+	.header-wrap .menu-wrap .navbar-inverse .navbar-brand {
+		max-width: 190px;
+		margin-left: -30px;
+		margin-top: 0;
+		padding-top: 0;
+	}
+
+	.header-wrap .menu-wrap .navbar-inverse .navbar-collapse {
+		margin-top: 100px;
+		min-width: 100px;
+		padding-right: 0;
+		padding-left: 0;
+	}
+
+	.header-wrap .menu-wrap .navbar-inverse .navbar-collapse #navigacija {
+		min-width: 100%;
+		max-width: 100%;
+		float: none;
+		margin: auto;
+	}
+
+	.header-wrap .menu-wrap .navbar-inverse .navbar-collapse #navigacija li a {
+		min-height: 20px;
+		padding: 0;
+		font-size: 15px;
+		text-align: center;
+		line-height: 40px;
+	}
+
+	.header-wrap .menu-wrap .navbar-inverse {
+		min-height: 80px;
+	}
+
+	.main-wrap .kvalitet-wrap .p-kvalitet {
+		font-size: 12px;
+		text-align: right;
+	}
+
+	body .main-content .pronadjeno-wrap {
+		padding-right: 0;
+	}
+
+	.main-content .pronadjeno select {
+		float: none;
+		min-width: 100%;
+		max-width: 100%;
+		margin: auto;
+	}
+
+	.main-content .pronadjeno .sort {
+		display: none;
+	}
+
+	.main-content .pronadjeno #sort-small {
+		display: block;
+		float: none;
+		text-align: left;
+	}
+
+
+	body .main-content .pronadjeno-wrap p {
+		font-size: 13px;
+	}
+
+	.main-trazi .trazi .pretraga {
+		padding-bottom: 20px;
+		text-align: center;
+		padding-top: 0;
+	}
+
+	.main-trazi .trazi .pretraga a {
+		font-size: 25px;
+		margin-top: 10px;
+		display: inline-block;
+		margin-top: 2px;
+	}
+
+	.main-trazi .trazi .pretraga #rotate-arrow {
+		margin-left: 15px;
+	}
+
+	.main-trazi .trazi .pretraga input {
+		min-width: 100%;
+		max-width: 100%;
+	}
+
+	.main-trazi .trazi .pretraga #refid {
+		min-width: 100%;
+		max-width: 100%;
+	}
+
+	.main-trazi .trazi .search a {
+		padding-left: 65px;
+	}
+
+	.show-form .top-inputs p, .show-form .bottom-inputs p {
+		margin-bottom: 0;
+	}
+
+	.show-form .top-inputs, .show-form .bottom-inputs {
+		padding-top: 0;
+	}
+
+	.show-form .bottom-inputs input {
+		min-width: 44%;
+		max-width: 44%;
+	}
+
+	body .main-content .nekretnina-item {
+		padding-top: 0;
+	}
+
+	body .main-content .nekretnina-item .img-wrap {
+		padding-top: 0;
+	}
+
+	body .main-content .nekretnina-item .img-wrap img {
+		-webkit-transform: none;
+		-webkit-transform-origin: none;
+		-moz-transform: none;
+		-moz-transform-origin: none;
+		height: auto;
+		max-height: 400px;
+		margin-bottom: 0;
+		min-width: 100%;
+	}
+
+	body .main-content .nekretnina-item .description-wrap h3 a {
+		font-size: 15px;
+	}
+
+	body .main-content .nekretnina-item .description-wrap .row .col-md-2 {
+		border: none;
+	}
+
+	body .main-content .nekretnina-item .description-wrap .description {
+		font-size: 12px;
+	}
+
+	body .main-content .nekretnina-item .description-wrap .row .col-md-6 .opsirnije {
+		min-width: 100%;
+		max-width: 100%;
+		margin: auto;
+		float: none;
+	}
+
+	body .main-content .nekretnina-item .description-wrap .row .col-md-2 p {
+		text-align: left;
+		font-size: 13px;
+		line-height: 16px;
+		margin: 0;
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+
+	body .main-content .nekretnina-item .description-wrap h3 a {
+		margin-bottom: 10px;
+	}
+
+	.main-content .izabrani {
+		padding-left: 0;
+		padding-bottom: 10px;
+	}
+
+	.izabrani .izabrani-item {
+		background: transparent;
+		padding: 0;
+		min-height: auto;
+	}
+
+	.izabrani .izabrani-item img {
+		min-width: 100%;
+		border: 15px solid #fff;
+		max-height: 350px;
+	}
+
+	.izabrani .izabrani-item .overlay  {
+		margin-left: 15px;
+		margin-top: 15px;
+	}
+
+	.foot-wrap .footer-booking-wrap .col-md-4 input {
+		margin-bottom: 10px;
+	}
+
+	.foot-wrap h2 {
+		margin-bottom: 10px;
+		font-size: 15px;
+	}
+
+	.foot-wrap .footer-booking-wrap .col-md-12 textarea {
+		margin-top: 0;
+	}
+
+	.foot-wrap .footer-booking-wrap .footer-zadnji span {
+		min-width: 100%;
+		max-width: 100%;
+		text-align: left;
+		margin: 0;
+		font-size: 15px;
+	}
+
+	.foot-wrap .footer-booking-wrap .footer-zadnji .footer-zbir {
+		min-width: 100%;
+		max-width: 100%;
+		margin: 0;
+		margin-bottom: 10px;
+		margin-top: 10px;
+	}
+
+	.foot-wrap .footer-booking-wrap .footer-zadnji button {
+		min-width: 100%;
+		max-width: 100%;
+	}
+
+	body .copyright {
+		font-size: 10px;
+		padding: 0;
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+
+	body .foot-wrap {
+		padding: 0;
+	} 
+
+	.foot-wrap .foot {
+		padding-bottom: 0;
+	}
+
+	.book-with-kontesa h3 {
+		font-size: 13px;
+	}
+
+	.book-with-kontesa p {
+		font-size: 10px;
+		line-height: 10px;
+	}
+
+	/*O NAMA*/
+
+	#o_nama .about-wrap {
+		min-height: auto;
+	}
+
+	#o_nama .about-wrap .text-wrap {
+		padding-top: 10px;
+	}
+
+	#o_nama .about-wrap .text-wrap p {
+		font-size: 12px;
+		margin-bottom: 15px;
+	}
+
+	#o_nama {
+		padding-bottom: 10px;
+	}
+
+	#o_nama .about-wrap .pronadjeno h1 {
+		font-size: 15px;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+	/*OPREMANJE I ODRZAVANJE*/
+
+	#o_nama .about-wrap #opremanje-text p {
+		font-size: 12px;
+		margin-bottom: 15px;
+	}
+
+	.main-content #rentacar-wrap #rent-slika-wrap {
+		height: 120px;
+		width: 100%;
+	}
+
+	.main-content #rentacar-wrap #rent-slika-wrap img {
+		max-height: 190px;
+		min-width: 120px;
+		margin: auto;
+	}
+
+	/*CRNA GORA*/
+
+	#crna-gora {
+		margin-bottom: 10px;
+	}
+
+	#crna-gora h3 {
+		font-size: 14px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+
+	#crna-gora .crna-gora-text p {
+		font-size: 12px;
+		margin: 0;
+	}
+
+	#crna-gora .crna-gora-text {
+		max-width: 100%;
+		padding-left: 15px;
+		padding-right: 15px;
+		padding-bottom: 15px;
+	}
+
+	#crna-gora h1 {
+		font-size: 15px;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+	#crna-gora .crna-gora-text iframe {
+		margin-top: 10px;
+	}
+
+	/*REZULTATI PRETRAGE*/
+
+	#rezultati-pretrage-wrap .nekretnina-item .description-wrap {
+		padding-left: 15px;
+	}
+
+	/*DETALJI NEKRETNINA*/
+
+	.pronadjeno-wrap .detalji-cena {
+		padding-top: 3px;
+		padding-bottom: 3px;
+		font-size: 25px;
+	}
+
+	.pronadjeno-wrap .detalji-opis-cena {
+		padding-bottom: 3px;
+		padding-top: 3px;
+		font-size: 15px;
+		line-height: 17px;
+	}
+
+	.pronadjeno-wrap .detalji-main {
+		margin-bottom: 10px;
+		padding: 0;
+	}
+
+	.pronadjeno-wrap .detalji-main .detalji-info-wrap .col-md-6 p {
+		font-size: 10px;
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+
+	.pronadjeno-wrap .detalji-main .detalji-info-wrap p {
+		font-size: 12px;
+		line-height: 14px;
+	}
+
+	.pronadjeno-wrap .detalji-main .upit-wrap hr {
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+
+	.pronadjeno-wrap .detalji-main .upit-wrap p {
+		font-size: 12px;
+		line-height: 14px;
+	}
+
+	.pronadjeno-wrap .detalji-main .upit-wrap .button-wrap {
+		min-width: 100%;
+		max-width: 100%;
+		margin-bottom: 10px;
+		margin-top: 10px;
+	}
+
+	#detalji-main-content {
+		margin-bottom: 10px;
+	}
+
+	/*MODAL FORM*/
+
+	.modal .modal-dialog {
+		min-width: auto;
+	}
+
+	.modal .modal-dialog .modal-content {
+		min-width: auto;
+	}
+
+	.modal .modal-dialog .modal-content .footer-zadnji input {
+		min-width: 100%;
+		max-width: 100%;
+		margin: 0;
+		margin-bottom: 10px;
+		margin-top: 10px;
+	}
+
+	.modal .modal-dialog .modal-content .footer-zadnji span {
+		min-width: 100%;
+		max-width: 100%;
+		text-align: left;
+		float: left;
+	}
+
+	.modal .modal-dialog .modal-content .footer-zadnji button {
+		min-width: 100%;
+		max-width: 100%;
+	}
+
+	.modal .modal-dialog .modal-content .modal-head-wrap .modal-header {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+
+	.modal .modal-dialog .modal-content .modal-body-wrap {
+		padding-top: 10px;
+	}
+
+	.modal .modal-dialog .modal-content .footer-zadnji {
+		padding-top: 10px;
+		padding-bottom: 10px;
+	}
+
+	/*KONTAKT*/
+
+	.kontakt-wrap .col-md-4 input {
+		margin-bottom: 10px;
+	}
+
+	.kontakt-wrap .footer-zadnji span {
+		min-width: 100%;
+		max-width: 100%;
+		float: left;
+		margin: 0;
+		font-size: 14px;
+	}
+
+	.kontakt-wrap .footer-zadnji {
+		padding-top: 0;
+	}
+
+	.kontakt-wrap .footer-zadnji .footer-zbir {
+		min-width: 100%;
+		max-width: 100%;
+		margin: 0;
+		margin-bottom: 10px;
+		margin-top: 10px;
+	}
+
+	.kontakt-wrap .footer-zadnji button {
+		min-width: 100%;
+		max-width: 100%;
+		margin: 0;
+	}
+
+	.kontakt-info-wrap {
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+
+	body .kontakt-wrap {
+		padding: 0;
+	}
+
+	.kontakt-wrap .kontakt-book {
+		padding: 0;
+	}
+
+	.kontakt-wrap h2 {
+		font-size: 15px;
+	}
+
+	body .kontakt-info-wrap {
+		padding: 0;
+	}
+
+	.kontakt-info-wrap .footer-phone-wrap {
+		background-position: left 5px top 10px;
+		padding-left: 30px;
+		-webkit-background-size: 19px 19px;
+		-moz-background-size: 19px 19px;
+		-o-background-size: 19px 19px;
+		background-size: 19px 19px;
+	}
+
+	.kontakt-info-wrap .footer-mail-wrap {
+		background-position: left 5px top 10px;
+		padding-left: 30px;
+		-webkit-background-size: 23px 19px;
+		-moz-background-size: 23px 19px;
+		-o-background-size: 23px 19px;
+		background-size: 23px 19px;
+	}
+
+	.kontakt-info-wrap .footer-location-wrap {
+		background-position: left 5px top 10px;
+		padding-left: 30px;
+		-webkit-background-size: 19px 23px;
+		-moz-background-size: 19px 23px;
+		-o-background-size: 19px 23px;
+		background-size: 19px 23px;
+	}
+
+	.kontakt-info-wrap .footer-info-wrap {
+		background-position: left 5px top 10px;
+		padding-left: 30px;
+		-webkit-background-size: 15px 23px;
+		-moz-background-size: 15px 23px;
+		-o-background-size: 15px 23px;
+		background-size: 15px 23px;
+	}
+
+	.main-content .izabrani {
+		display: none;
+	}
+}
