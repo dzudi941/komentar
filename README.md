@@ -1,0 +1,1 @@
+# komentar Napredne baze projekat
